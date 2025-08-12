@@ -177,9 +177,6 @@ if __name__ == "__main__":
 
 ## 📊 Model Results
 - **Model Architecture**: ![Model Architecture](model.png)
-- **Training History**:  
-  - Loss Plot: ![Loss Plot](loss_plot.png)  
-  - Accuracy Plot: ![Accuracy Plot](accuracy_plot.png)
 - **Test Accuracy**: 0.9398 (~94%)
 - **Tkinter App Test**: ![Tkinter App](Tkinter_test.png)
 
@@ -200,18 +197,8 @@ pip install numpy matplotlib opencv-python pillow scikit-learn tensorflow keras
    ```
 2. Download the dataset from Kaggle and place it in `data/`.
 3. Install dependencies.
-4. Train the model:
-   ```bash
-   python train_model.py
-   ```
-5. Test manually:
-   ```bash
-   python manual_test.py
-   ```
-6. Run real-time app:
-   ```bash
-   python realtime_app.py
-   ```
+4. Train the model with your own dataset. 
+5. Test it.
 
 ---
 
