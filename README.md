@@ -178,7 +178,7 @@ if __name__ == "__main__":
 ## 📊 Model Results
 - **Model Architecture**: ![Model Architecture](model.png)
 - **Test Accuracy**: 0.9398 (~94%)
-- **Tkinter App Test**: ![Tkinter App](Tkinter_test.png)
+- **Tkinter App Test**: <img src="Tkinter_test.png" alt="Tkinter App" style="width:60%; height:auto;">
 
 ---
 
