@@ -198,7 +198,7 @@ pip install numpy matplotlib opencv-python pillow scikit-learn tensorflow keras
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mask-detection.git
+   git clone https://github.com/ali27kh/Mask_Detection.git
    cd mask-detection
    ```
 2. Download the dataset from Kaggle and place it in `data/`.
